@@ -1,0 +1,36 @@
+[
+    {
+        "title": "Certus, Efficient Verifiable Convolutional Neural Network Inference based on Zero-Knowledge Proofs",
+        "authors": "Wenjie Qu, <strong>Zihao Zhang</strong>, Yanpei Guo, Jiaheng Zhang",
+        "venue": "In submission",
+        "links": [
+            {
+                "name": "PDF",
+                "url": "#",
+                "icon": "far fa-file-pdf"
+            },
+            {
+                "name": "Code",
+                "url": "#",
+                "icon": "fas fa-code"
+            }
+        ]
+    },
+    {
+        "title": "Efficient SNARK for Floating-Point Computation",
+        "authors": "Wenjie Qu*, <strong>Zihao Zhang</strong>*, Jiaheng Zhang",
+        "venue": "In submission",
+        "links": [
+            {
+                "name": "PDF",
+                "url": "#",
+                "icon": "far fa-file-pdf"
+            },
+            {
+                "name": "Code",
+                "url": "#",
+                "icon": "fas fa-code"
+            }
+        ]
+    }
+]
